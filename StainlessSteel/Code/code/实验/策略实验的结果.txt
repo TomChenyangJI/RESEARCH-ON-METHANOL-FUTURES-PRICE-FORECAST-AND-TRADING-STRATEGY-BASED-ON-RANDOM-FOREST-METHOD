@@ -1,0 +1,31 @@
+length is 20, starting date is 2016-05-11, k1 is 0.5, k2 is 0.5
+average_col is 4, std_col is 4
+平仓 15次， 做多 9次, 做空 7次
+length is 20, starting date is 2016-05-11, k1 is 0.6, k2 is 0.5
+average_col is 4, std_col is 4
+平仓 15次， 做多 8次, 做空 7次
+length is 20, starting date is 2016-05-11, k1 is 0.5, k2 is 0.5
+average_col is 4, std_col is 4
+平仓 15次， 做多 9次, 做空 7次
+length is 20, starting date is 2016-05-11, k1 is 0.6, k2 is 0.5
+average_col is 4, std_col is 4
+平仓 15次， 做多 8次, 做空 7次
+
+length is 20, starting date is 2016-05-11, k1 is 0.5, k2 is 0.5
+average_col is 4, std_col is 4
+平仓 15次， 做多 9次, 做空 7次
+length is 20, starting date is 2016-05-11, k1 is 0.6, k2 is 0.5
+average_col is 4, std_col is 4
+平仓 15次， 做多 8次, 做空 7次
+
+# 实验的结果表明，主要的平仓次数集中在10次到15次左右
+# 接下来的操作是要将结果进行输出到Excel文件中
+
+
+length is 20, starting date is 2016-05-11, k1 is 0.5, k2 is 0.5
+average_col is 4, std_col is 4
+平仓 15次， 做多 9次, 做空 7次
+length is 20, starting date is 2016-05-11, k1 is 0.6, k2 is 0.5
+average_col is 4, std_col is 4
+平仓 15次， 做多 8次, 做空 7次
+

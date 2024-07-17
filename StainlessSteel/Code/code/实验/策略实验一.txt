@@ -1,0 +1,822 @@
+length is 20, starting date is 2016-05-11, k1 is 0.6, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 14次， 做多 8次, 做空 6次
+length is 20, starting date is 2016-05-11, k1 is 0.6, k2 is 0.7
+average_col is 4, std_col is 4
+平仓 13次， 做多 8次, 做空 5次
+length is 20, starting date is 2016-05-11, k1 is 0.7, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 13次， 做多 7次, 做空 6次
+length is 20, starting date is 2016-05-11, k1 is 0.7, k2 is 0.7
+average_col is 4, std_col is 4
+平仓 12次， 做多 7次, 做空 5次
+length is 20, starting date is 2016-05-11, k1 is 0.8, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 12次， 做多 6次, 做空 6次
+length is 20, starting date is 2016-05-11, k1 is 0.8, k2 is 0.7
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 20, starting date is 2016-05-11, k1 is 0.9, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 12次， 做多 6次, 做空 6次
+length is 20, starting date is 2016-05-11, k1 is 0.9, k2 is 0.7
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 20, starting date is 2016-05-11, k1 is 1.0, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 5次, 做空 6次
+length is 20, starting date is 2016-05-11, k1 is 1.0, k2 is 0.7
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 20, starting date is 2016-05-11, k1 is 1.1, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 5次, 做空 6次
+length is 20, starting date is 2016-05-11, k1 is 1.1, k2 is 0.7
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 20, starting date is 2016-05-11, k1 is 1.2, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 5次, 做空 6次
+length is 20, starting date is 2016-05-11, k1 is 1.2, k2 is 0.7
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 20, starting date is 2016-05-11, k1 is 1.3, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 5次, 做空 6次
+length is 20, starting date is 2016-05-11, k1 is 1.3, k2 is 0.7
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 20, starting date is 2016-05-11, k1 is 1.4, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 5次, 做空 6次
+length is 20, starting date is 2016-05-11, k1 is 1.4, k2 is 0.7
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 21, starting date is 2016-05-11, k1 is 0.6, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 14次， 做多 8次, 做空 6次
+length is 21, starting date is 2016-05-11, k1 is 0.7, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 13次， 做多 7次, 做空 6次
+length is 21, starting date is 2016-05-11, k1 is 0.8, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 12次， 做多 6次, 做空 6次
+length is 21, starting date is 2016-05-11, k1 is 0.9, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 12次， 做多 6次, 做空 6次
+length is 21, starting date is 2016-05-11, k1 is 1.0, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 5次, 做空 6次
+length is 21, starting date is 2016-05-11, k1 is 1.1, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 5次, 做空 6次
+length is 21, starting date is 2016-05-11, k1 is 1.2, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 5次, 做空 6次
+length is 21, starting date is 2016-05-11, k1 is 1.3, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 5次, 做空 6次
+length is 21, starting date is 2016-05-11, k1 is 1.4, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 5次, 做空 6次
+length is 22, starting date is 2016-05-11, k1 is 0.6, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 13次， 做多 8次, 做空 5次
+length is 22, starting date is 2016-05-11, k1 is 0.7, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 12次， 做多 7次, 做空 5次
+length is 22, starting date is 2016-05-11, k1 is 0.8, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 22, starting date is 2016-05-11, k1 is 0.9, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 22, starting date is 2016-05-11, k1 is 1.0, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 22, starting date is 2016-05-11, k1 is 1.1, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 22, starting date is 2016-05-11, k1 is 1.2, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 22, starting date is 2016-05-11, k1 is 1.3, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 22, starting date is 2016-05-11, k1 is 1.4, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 23, starting date is 2016-05-11, k1 is 0.6, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 13次， 做多 8次, 做空 5次
+length is 23, starting date is 2016-05-11, k1 is 0.7, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 12次， 做多 7次, 做空 5次
+length is 23, starting date is 2016-05-11, k1 is 0.8, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 23, starting date is 2016-05-11, k1 is 0.9, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 23, starting date is 2016-05-11, k1 is 1.0, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 23, starting date is 2016-05-11, k1 is 1.1, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 23, starting date is 2016-05-11, k1 is 1.2, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 23, starting date is 2016-05-11, k1 is 1.3, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 23, starting date is 2016-05-11, k1 is 1.4, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 24, starting date is 2016-05-11, k1 is 0.6, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 13次， 做多 8次, 做空 5次
+length is 24, starting date is 2016-05-11, k1 is 0.7, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 12次， 做多 7次, 做空 5次
+length is 24, starting date is 2016-05-11, k1 is 0.8, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 24, starting date is 2016-05-11, k1 is 0.9, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 24, starting date is 2016-05-11, k1 is 1.0, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 24, starting date is 2016-05-11, k1 is 1.1, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 24, starting date is 2016-05-11, k1 is 1.2, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 24, starting date is 2016-05-11, k1 is 1.3, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 24, starting date is 2016-05-11, k1 is 1.4, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 25, starting date is 2016-05-11, k1 is 0.6, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 12次， 做多 7次, 做空 5次
+length is 25, starting date is 2016-05-11, k1 is 0.7, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 12次， 做多 7次, 做空 5次
+length is 25, starting date is 2016-05-11, k1 is 0.8, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 25, starting date is 2016-05-11, k1 is 0.9, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 25, starting date is 2016-05-11, k1 is 1.0, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 25, starting date is 2016-05-11, k1 is 1.1, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 25, starting date is 2016-05-11, k1 is 1.2, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 25, starting date is 2016-05-11, k1 is 1.3, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 25, starting date is 2016-05-11, k1 is 1.4, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 26, starting date is 2016-05-11, k1 is 0.6, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 12次， 做多 7次, 做空 5次
+length is 26, starting date is 2016-05-11, k1 is 0.7, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 12次， 做多 7次, 做空 5次
+length is 26, starting date is 2016-05-11, k1 is 0.8, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 26, starting date is 2016-05-11, k1 is 0.9, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 26, starting date is 2016-05-11, k1 is 1.0, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 26, starting date is 2016-05-11, k1 is 1.1, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 26, starting date is 2016-05-11, k1 is 1.2, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 26, starting date is 2016-05-11, k1 is 1.3, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 26, starting date is 2016-05-11, k1 is 1.4, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 26, starting date is 2016-05-11, k1 is 1.5, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 27, starting date is 2016-05-11, k1 is 0.6, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 12次， 做多 7次, 做空 5次
+length is 27, starting date is 2016-05-11, k1 is 0.7, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 12次， 做多 7次, 做空 5次
+length is 27, starting date is 2016-05-11, k1 is 0.8, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 27, starting date is 2016-05-11, k1 is 0.9, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 27, starting date is 2016-05-11, k1 is 1.0, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 27, starting date is 2016-05-11, k1 is 1.1, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 27, starting date is 2016-05-11, k1 is 1.2, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 27, starting date is 2016-05-11, k1 is 1.3, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 27, starting date is 2016-05-11, k1 is 1.4, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 27, starting date is 2016-05-11, k1 is 1.5, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 28, starting date is 2016-05-11, k1 is 0.6, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 12次， 做多 7次, 做空 5次
+length is 28, starting date is 2016-05-11, k1 is 0.7, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 12次， 做多 7次, 做空 5次
+length is 28, starting date is 2016-05-11, k1 is 0.8, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 28, starting date is 2016-05-11, k1 is 0.9, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 28, starting date is 2016-05-11, k1 is 1.0, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 28, starting date is 2016-05-11, k1 is 1.1, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 28, starting date is 2016-05-11, k1 is 1.2, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 28, starting date is 2016-05-11, k1 is 1.3, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 28, starting date is 2016-05-11, k1 is 1.4, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 28, starting date is 2016-05-11, k1 is 1.5, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 29, starting date is 2016-05-11, k1 is 0.6, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 12次， 做多 7次, 做空 5次
+length is 29, starting date is 2016-05-11, k1 is 0.7, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 12次， 做多 7次, 做空 5次
+length is 29, starting date is 2016-05-11, k1 is 0.8, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 12次， 做多 7次, 做空 5次
+length is 29, starting date is 2016-05-11, k1 is 0.9, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 29, starting date is 2016-05-11, k1 is 1.0, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 29, starting date is 2016-05-11, k1 is 1.1, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 29, starting date is 2016-05-11, k1 is 1.2, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 29, starting date is 2016-05-11, k1 is 1.3, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 29, starting date is 2016-05-11, k1 is 1.4, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 29, starting date is 2016-05-11, k1 is 1.5, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 30, starting date is 2016-05-11, k1 is 0.6, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 12次， 做多 7次, 做空 5次
+length is 30, starting date is 2016-05-11, k1 is 0.7, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 12次， 做多 7次, 做空 5次
+length is 30, starting date is 2016-05-11, k1 is 0.8, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 12次， 做多 7次, 做空 5次
+length is 30, starting date is 2016-05-11, k1 is 0.9, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 30, starting date is 2016-05-11, k1 is 1.0, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 30, starting date is 2016-05-11, k1 is 1.1, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 30, starting date is 2016-05-11, k1 is 1.2, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 30, starting date is 2016-05-11, k1 is 1.3, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 30, starting date is 2016-05-11, k1 is 1.4, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 30, starting date is 2016-05-11, k1 is 1.5, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 31, starting date is 2016-05-11, k1 is 0.6, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 12次， 做多 7次, 做空 5次
+length is 31, starting date is 2016-05-11, k1 is 0.7, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 12次， 做多 7次, 做空 5次
+length is 31, starting date is 2016-05-11, k1 is 0.8, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 12次， 做多 7次, 做空 5次
+length is 31, starting date is 2016-05-11, k1 is 0.9, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 31, starting date is 2016-05-11, k1 is 1.0, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 31, starting date is 2016-05-11, k1 is 1.1, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 31, starting date is 2016-05-11, k1 is 1.2, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 31, starting date is 2016-05-11, k1 is 1.3, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 31, starting date is 2016-05-11, k1 is 1.4, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 31, starting date is 2016-05-11, k1 is 1.5, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 32, starting date is 2016-05-11, k1 is 0.6, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 12次， 做多 7次, 做空 5次
+length is 32, starting date is 2016-05-11, k1 is 0.7, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 12次， 做多 7次, 做空 5次
+length is 32, starting date is 2016-05-11, k1 is 0.8, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 12次， 做多 7次, 做空 5次
+length is 32, starting date is 2016-05-11, k1 is 0.9, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 32, starting date is 2016-05-11, k1 is 1.0, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 32, starting date is 2016-05-11, k1 is 1.1, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 32, starting date is 2016-05-11, k1 is 1.2, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 32, starting date is 2016-05-11, k1 is 1.3, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 32, starting date is 2016-05-11, k1 is 1.4, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 32, starting date is 2016-05-11, k1 is 1.5, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 32, starting date is 2016-05-11, k1 is 1.6, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 33, starting date is 2016-05-11, k1 is 0.6, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 33, starting date is 2016-05-11, k1 is 0.7, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 33, starting date is 2016-05-11, k1 is 0.8, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 33, starting date is 2016-05-11, k1 is 0.9, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 33, starting date is 2016-05-11, k1 is 1.0, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 33, starting date is 2016-05-11, k1 is 1.1, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 33, starting date is 2016-05-11, k1 is 1.2, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 34, starting date is 2016-05-11, k1 is 0.6, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 12次， 做多 7次, 做空 5次
+length is 34, starting date is 2016-05-11, k1 is 0.7, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 12次， 做多 7次, 做空 5次
+length is 34, starting date is 2016-05-11, k1 is 0.8, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 12次， 做多 7次, 做空 5次
+length is 34, starting date is 2016-05-11, k1 is 0.9, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 34, starting date is 2016-05-11, k1 is 1.0, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 34, starting date is 2016-05-11, k1 is 1.1, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 34, starting date is 2016-05-11, k1 is 1.2, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 34, starting date is 2016-05-11, k1 is 1.3, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 34, starting date is 2016-05-11, k1 is 1.4, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 34, starting date is 2016-05-11, k1 is 1.5, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 35, starting date is 2016-05-11, k1 is 0.6, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 12次， 做多 7次, 做空 5次
+length is 35, starting date is 2016-05-11, k1 is 0.7, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 12次， 做多 7次, 做空 5次
+length is 35, starting date is 2016-05-11, k1 is 0.8, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 12次， 做多 7次, 做空 5次
+length is 35, starting date is 2016-05-11, k1 is 0.9, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 12次， 做多 7次, 做空 5次
+length is 35, starting date is 2016-05-11, k1 is 1.0, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 35, starting date is 2016-05-11, k1 is 1.1, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 35, starting date is 2016-05-11, k1 is 1.2, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 35, starting date is 2016-05-11, k1 is 1.3, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 35, starting date is 2016-05-11, k1 is 1.4, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 35, starting date is 2016-05-11, k1 is 1.5, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 36, starting date is 2016-05-11, k1 is 0.6, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 12次， 做多 7次, 做空 5次
+length is 36, starting date is 2016-05-11, k1 is 0.7, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 12次， 做多 7次, 做空 5次
+length is 36, starting date is 2016-05-11, k1 is 0.8, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 12次， 做多 7次, 做空 5次
+length is 36, starting date is 2016-05-11, k1 is 0.9, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 12次， 做多 7次, 做空 5次
+length is 36, starting date is 2016-05-11, k1 is 1.0, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 36, starting date is 2016-05-11, k1 is 1.1, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 36, starting date is 2016-05-11, k1 is 1.2, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 36, starting date is 2016-05-11, k1 is 1.3, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 36, starting date is 2016-05-11, k1 is 1.4, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 36, starting date is 2016-05-11, k1 is 1.5, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 37, starting date is 2016-05-11, k1 is 0.6, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 12次， 做多 7次, 做空 5次
+length is 37, starting date is 2016-05-11, k1 is 0.7, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 12次， 做多 7次, 做空 5次
+length is 37, starting date is 2016-05-11, k1 is 0.8, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 12次， 做多 7次, 做空 5次
+length is 37, starting date is 2016-05-11, k1 is 0.9, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 12次， 做多 7次, 做空 5次
+length is 37, starting date is 2016-05-11, k1 is 1.0, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 37, starting date is 2016-05-11, k1 is 1.1, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 37, starting date is 2016-05-11, k1 is 1.2, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 37, starting date is 2016-05-11, k1 is 1.3, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 37, starting date is 2016-05-11, k1 is 1.4, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 37, starting date is 2016-05-11, k1 is 1.5, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 38, starting date is 2016-05-11, k1 is 0.6, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 38, starting date is 2016-05-11, k1 is 0.7, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 38, starting date is 2016-05-11, k1 is 0.8, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 38, starting date is 2016-05-11, k1 is 0.9, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 38, starting date is 2016-05-11, k1 is 1.0, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 38, starting date is 2016-05-11, k1 is 1.1, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 39, starting date is 2016-05-11, k1 is 0.6, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 39, starting date is 2016-05-11, k1 is 0.7, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 39, starting date is 2016-05-11, k1 is 0.8, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 39, starting date is 2016-05-11, k1 is 0.9, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 39, starting date is 2016-05-11, k1 is 1.0, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 39, starting date is 2016-05-11, k1 is 1.1, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 40, starting date is 2016-05-11, k1 is 0.6, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 40, starting date is 2016-05-11, k1 is 0.7, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 40, starting date is 2016-05-11, k1 is 0.8, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 40, starting date is 2016-05-11, k1 is 0.9, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 40, starting date is 2016-05-11, k1 is 1.0, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 40, starting date is 2016-05-11, k1 is 1.1, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 41, starting date is 2016-05-11, k1 is 0.6, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 12次， 做多 7次, 做空 5次
+length is 41, starting date is 2016-05-11, k1 is 0.7, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 12次， 做多 7次, 做空 5次
+length is 41, starting date is 2016-05-11, k1 is 0.8, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 12次， 做多 7次, 做空 5次
+length is 41, starting date is 2016-05-11, k1 is 0.9, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 12次， 做多 7次, 做空 5次
+length is 41, starting date is 2016-05-11, k1 is 1.0, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 41, starting date is 2016-05-11, k1 is 1.1, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 41, starting date is 2016-05-11, k1 is 1.2, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 41, starting date is 2016-05-11, k1 is 1.3, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 41, starting date is 2016-05-11, k1 is 1.4, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 41, starting date is 2016-05-11, k1 is 1.5, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 41, starting date is 2016-05-11, k1 is 1.6, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 42, starting date is 2016-05-11, k1 is 0.6, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 12次， 做多 7次, 做空 5次
+length is 42, starting date is 2016-05-11, k1 is 0.7, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 12次， 做多 7次, 做空 5次
+length is 42, starting date is 2016-05-11, k1 is 0.8, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 12次， 做多 7次, 做空 5次
+length is 42, starting date is 2016-05-11, k1 is 0.9, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 12次， 做多 7次, 做空 5次
+length is 42, starting date is 2016-05-11, k1 is 1.0, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 42, starting date is 2016-05-11, k1 is 1.1, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 42, starting date is 2016-05-11, k1 is 1.2, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 42, starting date is 2016-05-11, k1 is 1.3, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 42, starting date is 2016-05-11, k1 is 1.4, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 42, starting date is 2016-05-11, k1 is 1.5, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 42, starting date is 2016-05-11, k1 is 1.6, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 43, starting date is 2016-05-11, k1 is 0.6, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 43, starting date is 2016-05-11, k1 is 0.7, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 43, starting date is 2016-05-11, k1 is 0.8, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 43, starting date is 2016-05-11, k1 is 0.9, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 43, starting date is 2016-05-11, k1 is 1.0, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 43, starting date is 2016-05-11, k1 is 1.1, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 44, starting date is 2016-05-11, k1 is 0.6, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 44, starting date is 2016-05-11, k1 is 0.7, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 44, starting date is 2016-05-11, k1 is 0.8, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 44, starting date is 2016-05-11, k1 is 0.9, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 44, starting date is 2016-05-11, k1 is 1.0, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 44, starting date is 2016-05-11, k1 is 1.1, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 45, starting date is 2016-05-11, k1 is 0.6, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 45, starting date is 2016-05-11, k1 is 0.7, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 45, starting date is 2016-05-11, k1 is 0.8, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 45, starting date is 2016-05-11, k1 is 0.9, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 45, starting date is 2016-05-11, k1 is 1.0, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 45, starting date is 2016-05-11, k1 is 1.1, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 46, starting date is 2016-05-11, k1 is 0.6, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 46, starting date is 2016-05-11, k1 is 0.7, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 46, starting date is 2016-05-11, k1 is 0.8, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 46, starting date is 2016-05-11, k1 is 0.9, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 46, starting date is 2016-05-11, k1 is 1.0, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 46, starting date is 2016-05-11, k1 is 1.1, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 47, starting date is 2016-05-11, k1 is 0.6, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 47, starting date is 2016-05-11, k1 is 0.7, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 47, starting date is 2016-05-11, k1 is 0.8, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 47, starting date is 2016-05-11, k1 is 0.9, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 47, starting date is 2016-05-11, k1 is 1.0, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 48, starting date is 2016-05-11, k1 is 0.6, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 48, starting date is 2016-05-11, k1 is 0.7, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 48, starting date is 2016-05-11, k1 is 0.8, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 48, starting date is 2016-05-11, k1 is 0.9, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 48, starting date is 2016-05-11, k1 is 1.0, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 49, starting date is 2016-05-11, k1 is 0.6, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 49, starting date is 2016-05-11, k1 is 0.7, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 49, starting date is 2016-05-11, k1 is 0.8, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 49, starting date is 2016-05-11, k1 is 0.9, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 52, starting date is 2016-05-11, k1 is 0.6, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 12次， 做多 7次, 做空 5次
+length is 52, starting date is 2016-05-11, k1 is 0.7, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 52, starting date is 2016-05-11, k1 is 0.8, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 53, starting date is 2016-05-11, k1 is 0.6, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 12次， 做多 7次, 做空 5次
+length is 53, starting date is 2016-05-11, k1 is 0.7, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 53, starting date is 2016-05-11, k1 is 0.8, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 54, starting date is 2016-05-11, k1 is 0.6, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 54, starting date is 2016-05-11, k1 is 0.7, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 55, starting date is 2016-05-11, k1 is 0.6, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 55, starting date is 2016-05-11, k1 is 0.7, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 56, starting date is 2016-05-11, k1 is 0.6, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 56, starting date is 2016-05-11, k1 is 0.7, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 10次， 做多 5次, 做空 5次
+length is 57, starting date is 2016-05-11, k1 is 0.6, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 58, starting date is 2016-05-11, k1 is 0.6, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次
+length is 59, starting date is 2016-05-11, k1 is 0.6, k2 is 0.6
+average_col is 4, std_col is 4
+平仓 11次， 做多 6次, 做空 5次

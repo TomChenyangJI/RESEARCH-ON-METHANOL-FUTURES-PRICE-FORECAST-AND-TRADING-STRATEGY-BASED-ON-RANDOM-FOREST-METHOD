@@ -1,0 +1,44 @@
+Thu Jul 15 17:48:37 2021
+default result :
+[('甲醇毛利', 0.8752), ('甲醇现货价格', 0.0691), ('甲醇进口', 0.016), ('天然气产量', 0.0135), ('冰醋酸进口', 0.0123), ('冰醋酸毛利', 0.0078), ('冰醋酸现货价格', 0.0062)]
+	mean absolute error : 31.189726775956284 mean_absolute_percentage_error :0.013209541740813634
+after adaption :
+[('甲醇毛利', 0.3474), ('甲醇现货价格', 0.2883), ('冰醋酸现货价格', 0.153), ('甲醇进口', 0.0763), ('冰醋酸毛利', 0.0479), ('天然气产量', 0.0448), ('冰醋酸进口', 0.0423)]
+	parameters : bootstrap=True max_depth=(12,) max_features=sqrt min_samples_leaf=1 min_samples_split=2 n_estimators=1200
+mean squared absolute error : 30.755721936309286 mean_absolute_percentage_error :0.01309642180459192
+score is 0.988929120433867
+original score is 0.9883903451129553
+
+
+Thu Jul 15 17:49:04 2021
+default result :
+[('甲醇毛利', 0.8752), ('甲醇现货价格', 0.0691), ('甲醇进口', 0.016), ('天然气产量', 0.0135), ('冰醋酸进口', 0.0123), ('冰醋酸毛利', 0.0078), ('冰醋酸现货价格', 0.0062)]
+	mean absolute error : 31.189726775956284 mean_absolute_percentage_error :0.013209541740813634
+after adaption :
+[('甲醇毛利', 0.3351), ('甲醇现货价格', 0.2874), ('冰醋酸现货价格', 0.1443), ('甲醇进口', 0.0831), ('冰醋酸毛利', 0.0567), ('冰醋酸进口', 0.0483), ('天然气产量', 0.0451)]
+	parameters : bootstrap=True max_depth=(12,) max_features=sqrt min_samples_leaf=1 min_samples_split=2 n_estimators=1100
+mean squared absolute error : 30.73796879171343 mean_absolute_percentage_error :0.013097706799107543
+score is 0.9889644205331604
+original score is 0.9883903451129553
+
+Thu Jul 15 17:49:37 2021
+default result :
+[('甲醇毛利', 0.8752), ('甲醇现货价格', 0.0691), ('甲醇进口', 0.016), ('天然气产量', 0.0135), ('冰醋酸进口', 0.0123), ('冰醋酸毛利', 0.0078), ('冰醋酸现货价格', 0.0062)]
+	mean absolute error : 31.189726775956284 mean_absolute_percentage_error :0.013209541740813634
+after adaption :
+[('甲醇毛利', 0.3596), ('甲醇现货价格', 0.2777), ('冰醋酸现货价格', 0.1415), ('甲醇进口', 0.0768), ('冰醋酸毛利', 0.0515), ('天然气产量', 0.0473), ('冰醋酸进口', 0.0455)]
+	parameters : bootstrap=True max_depth=(12,) max_features=sqrt min_samples_leaf=1 min_samples_split=2 n_estimators=900
+mean squared absolute error : 30.55955163512052 mean_absolute_percentage_error :0.013035405904735425
+score is 0.9890959496115964
+original score is 0.9883903451129553
+
+Thu Jul 15 17:49:59 2021
+default result :
+[('甲醇毛利', 0.8752), ('甲醇现货价格', 0.0691), ('甲醇进口', 0.016), ('天然气产量', 0.0135), ('冰醋酸进口', 0.0123), ('冰醋酸毛利', 0.0078), ('冰醋酸现货价格', 0.0062)]
+	mean absolute error : 31.189726775956284 mean_absolute_percentage_error :0.013209541740813634
+after adaption :
+[('甲醇毛利', 0.3391), ('甲醇现货价格', 0.2894), ('冰醋酸现货价格', 0.145), ('甲醇进口', 0.0809), ('冰醋酸毛利', 0.0518), ('天然气产量', 0.0481), ('冰醋酸进口', 0.0457)]
+	parameters : bootstrap=True max_depth=(12,) max_features=sqrt min_samples_leaf=1 min_samples_split=2 n_estimators=700
+mean squared absolute error : 30.926719864005733 mean_absolute_percentage_error :0.013173399640387556
+score is 0.9886896924196217
+original score is 0.9883903451129553
